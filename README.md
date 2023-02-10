@@ -10,14 +10,11 @@
   <img align="center" alt="VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Vuetify" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg">
    <img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Graphql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="right" alt="Avatar" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202302/338224_mRvba4eK.png">

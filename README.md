@@ -1,6 +1,6 @@
 
 ## Olá, eu sou o Pedro Baldaia 😄
- <img align="center" alt="React" height="30" width="40" src="https://media.licdn.com/dms/image/D4D16AQFxDJokiHyomA/profile-displaybackgroundimage-shrink_350_1400/0/1682327590062?e=1689206400&v=beta&t=dzxInGuFSh2nNildunZDsK34WsOARv6OWV9w72MwWUc">
+ <img align="center" alt="me" src="https://media.licdn.com/dms/image/D4D16AQFxDJokiHyomA/profile-displaybackgroundimage-shrink_350_1400/0/1682327590062?e=1689206400&v=beta&t=dzxInGuFSh2nNildunZDsK34WsOARv6OWV9w72MwWUc">
 <div style="display: inline_block">
  <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

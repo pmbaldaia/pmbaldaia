@@ -17,7 +17,7 @@
   <img align="center" alt="Graphql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Avatar" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202302/338224_mRvba4eK.png](https://media.licdn.com/dms/image/D4D16AQFxDJokiHyomA/profile-displaybackgroundimage-shrink_350_1400/0/1682327590062?e=1689206400&v=beta&t=dzxInGuFSh2nNildunZDsK34WsOARv6OWV9w72MwWUc">
+  <img align="right" alt="Avatar" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D16AQFxDJokiHyomA/profile-displaybackgroundimage-shrink_350_1400/0/1682327590062?e=1689206400&v=beta&t=dzxInGuFSh2nNildunZDsK34WsOARv6OWV9w72MwWUc">
 </div>
   
   ##
